@@ -149,7 +149,7 @@ npm test
 
 - GitHub: [@githubhandle](https://github.com/sahlminkok)
 - Twitter: [@twitterhandle](https://twitter.com/sahlminkok)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sahlminkok/
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sahlminkok/l
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
