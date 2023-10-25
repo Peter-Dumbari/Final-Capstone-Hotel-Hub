@@ -142,7 +142,7 @@ npm test
 👤 **Peter Dumbar**
 
 - GitHub: [@githubhandle](https://github.com/Peter-Dumbari)
-- Twitter: [@twitterhandle](https://twitter.com/Peterdumbari)
+- Twitter: [@peterdumbari](https://twitter.com/Peterdumbari)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/peterdumbari/
 
 👤 **Sahalu Aminu**
